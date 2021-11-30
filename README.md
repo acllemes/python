@@ -22,3 +22,11 @@
 10) Para sair do Python, insira `exit()`, `quit()` ou selecione Ctrl-Z.
 
 ![image](https://user-images.githubusercontent.com/89918957/144112304-d97cebf1-36ce-4a6b-9db2-717d927211f4.png)
+
+# Tutorial de Hello World para usar o Python com o VS Code
+
+Abra o cmd e crie uma pasta vazia chamada "hello", navegue até essa pasta e abra-a no VS Code:
+
+![image](https://user-images.githubusercontent.com/89918957/144117499-144f6e4e-3c54-4d03-b37a-3ece6dde2128.png)
+
+
